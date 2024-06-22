@@ -6,7 +6,7 @@ image:
 description: >
   This whole trip is completely outside of my comfort zone. 
 sitemap: false
-categories: [PhotoLogs]
+categories: [photologs]
 hide_last_modified: true
 pagination: 
   enabled: true

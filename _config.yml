@@ -48,9 +48,9 @@ menu:
   - title:             Blogs
     url:               /about/
   - title:             Photo Logs
-    url:               /PhotoLogs/
+    url:               /photologs/
   - title:             Live
-    url:               /Lives/
+    url:               /lives/
   - title:             Example
     url:               /example/
   - title:             Documentation
@@ -81,7 +81,7 @@ pagination:
   enabled: true
   debug: false
   per_page: 10
-  permalink: '/:num/'
+  # permalink: '/:num/'
   title: ':title'
   limit: 0
   sort_field: 'date'
@@ -92,11 +92,11 @@ pagination:
   collections:
     photo_logs:
       output: true
-      permalink: '/PhotoLogs/:num/'
+      # permalink: '/PhotoLogs/:num/'
       title_suffix: ' - Photo Logs'
     lives:
       output: true
-      permalink: '/lives/:num/'
+      # permalink: '/lives/:num/'
       title_suffix: ' - Lives'
 
 # Theme
@@ -325,7 +325,7 @@ collections:
     permalink:         /tag-:name/
     output:            true
 
-  photo_logs:
+  photologs:
     output:            true
 
   lives:
