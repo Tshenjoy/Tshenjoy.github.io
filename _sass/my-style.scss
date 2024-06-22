@@ -1,0 +1,45 @@
+.dl-table {
+  a {
+    @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      text-underline-offset: .8rem;
+    }
+    @supports not ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      padding-bottom: .45rem;
+    }
+  }
+
+  .btn, .gumroad-button  {
+    margin: 1rem 0;
+  }
+}
+
+// .photograph {
+//     display: block;
+//     width: 50%;
+//     user-select: none;
+//     -moz-user-select: none;
+//     -webkit-user-drag: none;
+//     -webkit-user-select: none;
+//     -ms-user-select: none;
+// }
+
+// .photograph-div {
+//     padding:16px;
+//     margin-bottom: 50px;
+//     background-color: rgb(47, 146, 203);
+// }
+
+// .story {
+//     margin: 1rem 0 0 0;
+// }
+
+// .image-specs {
+//     /* margin-top: 2px; */
+//     color: var(--text-color-dark);
+//     opacity: 0.5;
+//     font-family: "Minimal Mono";
+//     font-size: smaller;
+//     font-weight: 100;
+//     font-style: oblique;
+//     user-select: none;
+// } 
