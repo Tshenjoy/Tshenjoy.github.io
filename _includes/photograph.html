@@ -1,0 +1,48 @@
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="{{ include.src }}" class="photograph" />
+    <p class="image-specs"> {{ include.specs }} </p>
+    <p class="story"> {{ include.story }} </p>
+</div>
