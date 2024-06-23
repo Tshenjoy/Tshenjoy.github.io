@@ -90,7 +90,7 @@ pagination:
     before: 2
     after: 2
   collections:
-    photo_logs:
+    photologs:
       output: true
       # permalink: '/PhotoLogs/:num/'
       title_suffix: ' - Photo Logs'
