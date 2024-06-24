@@ -2,7 +2,7 @@
 layout: post
 title: Trip to Singapore
 image: 
-  path: ../../photographs/logs/singapore/mascot.jpg
+  path: https://tshenjoy.oss-cn-shanghai.aliyuncs.com/mascot.jpg
 description: >
   This whole trip is completely outside of my comfort zone. 
 sitemap: false
