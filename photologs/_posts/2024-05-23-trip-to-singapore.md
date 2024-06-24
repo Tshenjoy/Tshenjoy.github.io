@@ -15,13 +15,13 @@ pagination:
 
 My first time abroad. I don't know if I would be willing to remember it. 
 
+I spent too much time runing from one conference room to another. I was so tired that I could not even remember what I was doing. and of course I was not able to enjoy the city.
 
 {% include photograph.html 
 src = " https://tshenjoy.oss-cn-shanghai.aliyuncs.com/ticket.jpg" 
 specs ="" 
 story = "To catch the 9 a.m. airplane, I had to get up at 4 a.m. I was so grumpy and twisted that I hoped the airplane would crash. (some horrific thoughts, I know) 
 " %}
-
 
 {% include photograph.html 
 src = " https://tshenjoy.oss-cn-shanghai.aliyuncs.com/skylongue.jpg" 
@@ -47,6 +47,157 @@ specs ="50mm, f/2.8, 1/200s, ISO 800"
 story = " Just like the depth and the shadow in the scene. Nothing special. 
 " %}
 
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/galadinner.jpg"
+specs = ""
+story = "The welcome reception at first night. I met a Chinese guy now pursuing his Ph.D. in the U.K. He talked a lot.
+" %}
+
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/boat.jpg"
+specs = ""
+story = "Felt sick somehow and got away in the middle of dinner. At riverside, I saw a boat.
+" %}
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/pancake.jpg"
+specs = ""
+story = "Pancake stall at vivo city.
+" %}
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/riverside.jpg"
+specs = ""
+story = "Sneak out of the gala dinner and went to the riverside. I remmembered that I asked for a cigarette from a stranger on my way out. Felt like mint.
+" %}
+
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/show.jpg"
+specs = ""
+story = "A show was going on. Some classic songs.
+" %}
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/rubberducks.jpg"
+specs = ""
+story = "Many rubber ducks in the sink.
+" %}
+
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/noentry.jpg"
+specs = ""
+story = "No entry. I was standing in front of the gate, looking at the sign.
+" %}
+
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/mascot.jpg"
+specs = ""
+story = "It seems so reluctent. On the flight back to Shanghai, person sitting next to me was from SJTU. He told me that his collegues designed the mascot of the event. 
+" %}
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/lifesaver.jpg"
+specs = ""
+story = "A life saver. It's getting darker.
+" %}
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/lion.jpg"
+specs = ""
+story = "It was so loud. I had to went out of the room before anything is served.
+" %}
+
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/dinningtables.jpg"
+specs = ""
+story = "I took this snapshot on an elevator. The dinning tables were set up for guests.
+" %}
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/casino.jpg"
+specs = ""
+story = "The casino. Never been to one. 
+" %}
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/carnival.jpg"
+specs = ""
+story = "I don't know what it sells. Maybe popsticks?
+" %}
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/gintonics.jpg"
+specs = ""
+story = "Gin tonics. Sitting alone in the corner of the bar. Outside was the beach.
+" %}
+
+The second day at conference, I met an old classmate at poster session. It was really a surprise. We went out for breakfast the last day and she took me around the city a little bit. 
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/breakfast.jpg"
+specs = ""
+story = "Last day in Singapore. Got up early and had breakfast with an acquaintance. It was so sugary.
+" %}
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/bustomerlion.png"
+specs = ""
+story = "You have to pay attention at where you are. The bus would not stop unless you press the button. But the station names look so similar.
+" %}
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/Merlion.jpg"
+specs = ""
+story = "Merlion. Many people were taking photos. The 9 a.m. sun was already unbearable.
+" %}
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/onbridge.jpg"
+specs = ""
+story = "On the bridge. White lanterns(?) and blue sky.
+" %}
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/parliment.jpg"
+specs = ""
+story = "Singapore's parliament house.
+" %}
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/policestation_2.jpg"
+specs = ""
+story = "I only know that afterwards, I was standing in front of a police station. Colorful.
+" %}
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/policestation.jpg"
+specs = ""
+story = "I really appreciate that she took me out of the sentosa island. I've been stuck there for 3 days.
+" %}
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/square.jpg"
+specs = ""
+story = "The square in front of the arthouse. We went inside to avoid the sun.
+" %}
+
+{% include photograph.html  
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/saying.jpg"
+specs = ""
+story = "Don't really know what that means. But the light was beautiful.
+" %}
+
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/metro.jpg"
+specs = ""
+story = "Litterally the NATIONAL metro.
+" %}
 
 <!-- ![bar](https://tshenjoy.oss-cn-shanghai.aliyuncs.com/bar.jpg)
 ![beachpool](https://tshenjoy.oss-cn-shanghai.aliyuncs.com/beachpool.jpg)
