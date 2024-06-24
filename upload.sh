@@ -7,7 +7,7 @@
 if [ -z "$1" ]; then
   echo "Error: No commit message provided."
   echo "Usage: $0 '<commit-message>'"
-  exit 1
+  return 0 2>/dev/null || exit 0  # This prevents terminal from closing when sourced
 fi
 
 # Step 2: Copy files from _site to docs/
