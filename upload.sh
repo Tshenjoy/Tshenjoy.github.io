@@ -10,6 +10,9 @@ if [ -z "$1" ]; then
   return 0 2>/dev/null || exit 0  # This prevents terminal from closing when sourced
 fi
 
+# Step 1: Build the project
+bundle exec jekyll build
+
 # Step 2: Copy files from _site to docs/
 cp -r ./_site/ ./docs/
 
