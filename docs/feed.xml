@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-06-24T10:57:55+08:00</updated><id>/feed.xml</id><title type="html">Tsh(trying_to)enjoy</title><subtitle>Existance is pain.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-06-25T09:19:33+08:00</updated><id>/feed.xml</id><title type="html">Tsh(trying_to)enjoy</title><subtitle>Existance is pain.
 </subtitle><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><entry><title type="html">June 2024 Photo Log</title><link href="/photologs/2024-06-20-june-2024-photo-log/" rel="alternate" type="text/html" title="June 2024 Photo Log" /><published>2024-06-20T00:00:00+08:00</published><updated>2024-06-23T10:22:28+08:00</updated><id>/photologs/june-2024-photo-log</id><content type="html" xml:base="/photologs/2024-06-20-june-2024-photo-log/"><![CDATA[<p>June 2024, an exhuasting month.</p>
 
 <!-- _includes/photograph.html -->
@@ -539,7 +539,9 @@ I think i still kept the ticket stub from their last year tour.</p>
 ![rehearsal](https://tshenjoy.oss-cn-shanghai.aliyuncs.com/imagesrehearsal.jpg)
 ![snack](https://tshenjoy.oss-cn-shanghai.aliyuncs.com/imagessnack.jpg)
 ![sunset](https://tshenjoy.oss-cn-shanghai.aliyuncs.com/imagessunset.jpg)
-![watertower](https://tshenjoy.oss-cn-shanghai.aliyuncs.com/imageswatertower.jpg) -->]]></content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="photologs" /><summary type="html"><![CDATA[A busy month. Trip to Singapore, a few days with friends in Wuhan, and a lot of work.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/imageswatertower.jpg" /><media:content medium="image" url="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/imageswatertower.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Trip to Singapore</title><link href="/photologs/2024-05-23-trip-to-singapore/" rel="alternate" type="text/html" title="Trip to Singapore" /><published>2024-05-23T00:00:00+08:00</published><updated>2024-06-23T10:22:28+08:00</updated><id>/photologs/trip-to-singapore</id><content type="html" xml:base="/photologs/2024-05-23-trip-to-singapore/"><![CDATA[<p>My first time abroad. I don’t know if I would be willing to remember it.</p>
+![watertower](https://tshenjoy.oss-cn-shanghai.aliyuncs.com/imageswatertower.jpg) -->]]></content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="photologs" /><summary type="html"><![CDATA[A busy month. Trip to Singapore, a few days with friends in Wuhan, and a lot of work.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/imageswatertower.jpg" /><media:content medium="image" url="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/imageswatertower.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Trip to Singapore</title><link href="/photologs/2024-05-23-trip-to-singapore/" rel="alternate" type="text/html" title="Trip to Singapore" /><published>2024-05-23T00:00:00+08:00</published><updated>2024-06-24T18:41:20+08:00</updated><id>/photologs/trip-to-singapore</id><content type="html" xml:base="/photologs/2024-05-23-trip-to-singapore/"><![CDATA[<p>My first time abroad. I don’t know if I would be willing to remember it.</p>
+
+<p>I spent too much time runing from one conference room to another. I was so tired that I could not even remember what I was doing. and of course I was not able to enjoy the city.</p>
 
 <!-- _includes/photograph.html -->
 <style>
@@ -791,6 +793,1208 @@ I think i still kept the ticket stub from their last year tour.</p>
  </p>
 </div>
 
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/galadinner.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> The welcome reception at first night. I met a Chinese guy now pursuing his Ph.D. in the U.K. He talked a lot.
+ </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/boat.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> Felt sick somehow and got away in the middle of dinner. At riverside, I saw a boat.
+ </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/pancake.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> Pancake stall at vivo city.
+ </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/riverside.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> Sneak out of the gala dinner and went to the riverside. I remmembered that I asked for a cigarette from a stranger on my way out. Felt like mint.
+ </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/show.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> A show was going on. Some classic songs.
+ </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/rubberducks.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> Many rubber ducks in the sink.
+ </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/noentry.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> No entry. I was standing in front of the gate, looking at the sign.
+ </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/mascot.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> It seems so reluctent. On the flight back to Shanghai, person sitting next to me was from SJTU. He told me that his collegues designed the mascot of the event. 
+ </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/lifesaver.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> A life saver. It's getting darker.
+ </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/lion.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> It was so loud. I had to went out of the room before anything is served.
+ </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/dinningtables.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> I took this snapshot on an elevator. The dinning tables were set up for guests.
+ </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/casino.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> The casino. Never been to one. 
+ </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/carnival.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> I don't know what it sells. Maybe popsticks?
+ </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/gintonics.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> Gin tonics. Sitting alone in the corner of the bar. Outside was the beach.
+ </p>
+</div>
+
+<p>The second day at conference, I met an old classmate at poster session. It was really a surprise. We went out for breakfast the last day and she took me around the city a little bit.</p>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/breakfast.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> Last day in Singapore. Got up early and had breakfast with an acquaintance. It was so sugary.
+ </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/bustomerlion.png" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> You have to pay attention at where you are. The bus would not stop unless you press the button. But the station names look so similar.
+ </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/Merlion.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> Merlion. Many people were taking photos. The 9 a.m. sun was already unbearable.
+ </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/onbridge.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> On the bridge. White lanterns(?) and blue sky.
+ </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/parliment.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> Singapore's parliament house.
+ </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/policestation_2.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> I only know that afterwards, I was standing in front of a police station. Colorful.
+ </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/policestation.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> I really appreciate that she took me out of the sentosa island. I've been stuck there for 3 days.
+ </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/square.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> The square in front of the arthouse. We went inside to avoid the sun.
+ </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/saying.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> Don't really know what that means. But the light was beautiful.
+ </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/metro.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> Litterally the NATIONAL metro.
+ </p>
+</div>
+
 <!-- ![bar](https://tshenjoy.oss-cn-shanghai.aliyuncs.com/bar.jpg)
 ![beachpool](https://tshenjoy.oss-cn-shanghai.aliyuncs.com/beachpool.jpg)
 ![boat](https://tshenjoy.oss-cn-shanghai.aliyuncs.com/boat.jpg)
@@ -911,7 +2115,7 @@ iso 500, f/6.3, 1/200s, 30mm
 <p>Hydejack 9 now lets you use content cards for both projects and posts. 
 The cards have been redesigned with a new hover style and drop shadows and they retain their unique transition-to-next-page animations, which now also work on the <code class="language-plaintext highlighter-rouge">blog</code> layout. The new <code class="language-plaintext highlighter-rouge">grid</code> layout lets you do that.</p>
 
-<p>Good images are key to making the most out of content cards. For that reason, a <a href="/docs/basics/#adding-images">chapter on images</a> has been added to the documentation.</p>
+<p>Good images are key to making the most out of content cards. For that reason, a <a href="../../docs/basics.md#adding-images">chapter on images</a> has been added to the documentation.</p>
 
 <h2 id="built-in-search">Built-In Search</h2>
 
