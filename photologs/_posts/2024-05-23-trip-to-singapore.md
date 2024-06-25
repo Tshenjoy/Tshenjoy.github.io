@@ -56,8 +56,8 @@ story = "The welcome reception at first night. I met a Chinese guy now pursuing 
 
 {% include photograph.html
 src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/boat.jpg"
-specs = ""
-story = "Felt sick somehow and got away in the middle of dinner. At riverside, I saw a boat.
+specs = "50mm, f/9, 1/50s, ISO 1000"
+story = "Felt sick somehow and got away in the middle of dinner. I saw a boat at riverside.
 " %}
 
 {% include photograph.html
@@ -68,27 +68,27 @@ story = "Pancake stall at vivo city.
 
 {% include photograph.html
 src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/riverside.jpg"
-specs = ""
+specs = "50mm, f/4, 1/200s, ISO 3200"
 story = "Sneak out of the gala dinner and went to the riverside. I remmembered that I asked for a cigarette from a stranger on my way out. Felt like mint.
 " %}
 
 
 {% include photograph.html
 src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/show.jpg"
-specs = ""
+specs = "50mm, f/2.8, 1/160s, ISO 5000"
 story = "A show was going on. Some classic songs.
 " %}
 
 {% include photograph.html
 src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/rubberducks.jpg"
-specs = ""
+specs = "50mm, f/2.8, 1/200s, ISO 320"
 story = "Many rubber ducks in the sink.
 " %}
 
 
 {% include photograph.html
 src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/noentry.jpg"
-specs = ""
+specs = "50mm, f/1.8, 1/100s, ISO 10000"
 story = "No entry. I was standing in front of the gate, looking at the sign.
 " %}
 
@@ -101,32 +101,32 @@ story = "It seems so reluctent. On the flight back to Shanghai, person sitting n
 
 {% include photograph.html
 src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/lifesaver.jpg"
-specs = ""
+specs = "50mm, f/2.5, 1/160s, ISO 6400"
 story = "A life saver. It's getting darker.
 " %}
 
 {% include photograph.html
 src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/lion.jpg"
 specs = ""
-story = "It was so loud. I had to went out of the room before anything is served.
+story = "At gala dinner. It was so loud. I had to went out of the room before anything is served.
 " %}
 
 
 {% include photograph.html
 src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/dinningtables.jpg"
-specs = ""
+specs = "50mm, f/2.8, 1/160s, ISO 4000"
 story = "I took this snapshot on an elevator. The dinning tables were set up for guests.
 " %}
 
 {% include photograph.html
 src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/casino.jpg"
-specs = ""
+specs = "50mm, f/2.8, 1/160s, ISO 1000"
 story = "The casino. Never been to one. 
 " %}
 
 {% include photograph.html
 src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/carnival.jpg"
-specs = ""
+specs = "50mm, f/5.6, 1/800s, ISO 100"
 story = "I don't know what it sells. Maybe popsticks?
 " %}
 
@@ -147,51 +147,50 @@ story = "Last day in Singapore. Got up early and had breakfast with an acquainta
 {% include photograph.html
 src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/bustomerlion.png"
 specs = ""
-story = "You have to pay attention at where you are. The bus would not stop unless you press the button. But the station names look so similar.
+story = "You have to pay attention where you are. The bus would not stop unless you press the button. But the station names look so similar.
 " %}
 
 {% include photograph.html
 src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/Merlion.jpg"
-specs = ""
+specs = "50mm, f/6.3, 1/1000s, ISO 100"
 story = "Merlion. Many people were taking photos. The 9 a.m. sun was already unbearable.
 " %}
 
 {% include photograph.html
 src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/onbridge.jpg"
-specs = ""
-story = "On the bridge. White lanterns(?) and blue sky.
-" %}
-
-{% include photograph.html
-src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/parliment.jpg"
-specs = ""
-story = "Singapore's parliament house.
-" %}
-
-{% include photograph.html
-src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/policestation_2.jpg"
-specs = ""
-story = "I only know that afterwards, I was standing in front of a police station. Colorful.
-" %}
-
-{% include photograph.html
-src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/policestation.jpg"
-specs = ""
-story = "I really appreciate that she took me out of the sentosa island. I've been stuck there for 3 days.
+specs = "50mm, f/6.3, 1/800s, ISO 100"
+story = "On a bridge. White lanterns(?) and blue sky.
 " %}
 
 {% include photograph.html
 src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/square.jpg"
-specs = ""
+specs = "50mm, f/5, 1/500s, ISO 100"
 story = "The square in front of the arthouse. We went inside to avoid the sun.
 " %}
 
 {% include photograph.html  
 src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/saying.jpg"
-specs = ""
-story = "Don't really know what that means. But the light was beautiful.
+specs = "50mm, f/2.8, 1/200s, ISO 125"
+story = "Don't really understand what that means. But the light was beautiful.
 " %}
 
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/parliment.jpg"
+specs = "50mm, f/3.2, 1/1600s, ISO 100"
+story = "Singapore's parliament house.
+" %}
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/policestation_2.jpg"
+specs = "50mm, f/5, 1/500s, ISO 100"
+story = "I only know that afterwards, I was standing in front of a police station. Colorful.
+" %}
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/policestation.jpg"
+specs = "50mm, f/2.5, 1/640s, ISO 100"
+story = "I really appreciate that she took me out of the sentosa island. I've been stuck there for 3 days.
+" %}
 
 {% include photograph.html
 src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/metro.jpg"

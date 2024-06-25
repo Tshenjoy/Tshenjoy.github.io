@@ -14,7 +14,7 @@ fi
 bundle exec jekyll build
 
 # Step 2: Copy files from _site to docs/
-cp -r ./_site/ ./docs/
+cp -r ./_site/* ./docs/
 
 # Step 3: Add, commit with the provided message, and push changes
 git add .
