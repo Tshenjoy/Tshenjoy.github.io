@@ -4,7 +4,7 @@ title: April 2024 Photo Log
 image: 
   path: https://tshenjoy.oss-cn-shanghai.aliyuncs.com/ship.jpg
 description: >
-  
+  Didn't have a camera by my side this time. Hoping I would see the world through both my eyes.
 sitemap: false
 categories: [photologs]
 hide_last_modified: true
@@ -13,14 +13,14 @@ pagination:
 
 ---
 
-I got my camera this month and started to take photos. Still learning how to use it. 
+Got my camera this month and started to take photos. Still learning how to use it. 
 
-First time holding a camera on street. 
+
 
 {% include photograph.html
 src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/museum.jpg"
 specs="50mm, f/2.8, 1/160s, ISO 100"
-story="" %}
+story="First time holding a camera on street. " %}
 
 {% include photograph.html
 src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/april_rain_green.jpg"
