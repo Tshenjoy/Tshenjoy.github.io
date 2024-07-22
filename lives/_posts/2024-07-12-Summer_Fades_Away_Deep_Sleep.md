@@ -27,7 +27,7 @@ story="Bass player. " %}
 {% include photograph.html
 src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/summer_fades_away_240712_3.jpg"
 specs="50mm, f/1.8, 1/160s, ISO 6400"
-story="During one of the songs in the ablum "Time files and Memories cruel." " %}
+story="During one of the songs in the ablum *Time files and Memories cruel*. " %}
 
 {% include photograph.html
 src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/summer_fades_away_240712_4.jpg"
