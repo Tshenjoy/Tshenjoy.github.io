@@ -12,6 +12,8 @@ pagination:
   enabled: true
 ---
 
+Went to see some old friends.
+
 {% include photograph.html
 src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/summer_fades_away_240712_1.jpg"
 specs="50mm, f/2.8, 1/160s, ISO 2500"
@@ -20,12 +22,12 @@ story="Summer Fades Away. " %}
 {% include photograph.html
 src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/summer_fades_away_240712_2.jpg"
 specs="50mm, f/2.8, 1/160s, ISO 4000"
-story=" " %}
+story="Bass player. " %}
 
 {% include photograph.html
 src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/summer_fades_away_240712_3.jpg"
 specs="50mm, f/1.8, 1/160s, ISO 6400"
-story=" " %}
+story="During one of the songs in the ablum "Time files and Memories' cruel." " %}
 
 {% include photograph.html
 src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/summer_fades_away_240712_4.jpg"
@@ -35,18 +37,22 @@ story=" Reminds of Taka @ Mono. Shouting at pickup with heavy delay reverb and d
 {% include photograph.html
 src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/summer_fades_away_240712_5.jpg"
 specs="50mm, f/2.8, 1/160s, ISO 2500"
-story=" " %}
+story="Auld Lang Syne. " %}
 
 {% include photograph.html
 src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/summer_fades_away_240712_6.jpg"
 specs="50mm, f/2.8, 1/160s, ISO 1600"
-story=" " %}
+story="Deep Sleep " %}
+
+I didn't stay till the end of Deep Sleep. The drummer was good. But they used too much samplings from movies or other. And the VJ is just too much for me. 
+
+---
 
 Use black and white is like a shortcut to make a photo looks good. I like the grainy texture and I don't have to consider the color balance. 
 
 ---
 
-There are two photos that goes way back. I think it's the first tour the band activated again. I really liked that show. I remember that I had a midterm the next day. Glad I went.
+There are two photos that goes way back. I think it's the first tour after the band re-activated again. I really liked that show. I remember that I had a midterm the next day. Glad I went.
 
 {% include photograph.html
 src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/summer_fades_away_240712_backstory_1.jpg"
