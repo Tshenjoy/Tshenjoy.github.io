@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-07-22T11:39:14+08:00</updated><id>/feed.xml</id><title type="html">Tsh(trying_to)enjoy</title><subtitle>Existance is pain.
-</subtitle><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><entry><title type="html">Summer Fades Away &amp;amp; Deep Sleep @ Future Theater</title><link href="/lives/2024-07-12-Summer_Fades_Away_Deep_Sleep/" rel="alternate" type="text/html" title="Summer Fades Away &amp;amp; Deep Sleep @ Future Theater" /><published>2024-07-12T00:00:00+08:00</published><updated>2024-07-22T11:38:34+08:00</updated><id>/lives/Summer_Fades_Away_Deep_Sleep</id><content type="html" xml:base="/lives/2024-07-12-Summer_Fades_Away_Deep_Sleep/"><![CDATA[<!-- _includes/photograph.html -->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-07-22T12:02:08+08:00</updated><id>/feed.xml</id><title type="html">Tsh(trying_to)enjoy</title><subtitle>Existance is pain.
+</subtitle><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><entry><title type="html">Summer Fades Away &amp;amp; Deep Sleep @ Future Theater</title><link href="/lives/2024-07-12-Summer_Fades_Away_Deep_Sleep/" rel="alternate" type="text/html" title="Summer Fades Away &amp;amp; Deep Sleep @ Future Theater" /><published>2024-07-12T00:00:00+08:00</published><updated>2024-07-22T12:01:32+08:00</updated><id>/lives/Summer_Fades_Away_Deep_Sleep</id><content type="html" xml:base="/lives/2024-07-12-Summer_Fades_Away_Deep_Sleep/"><![CDATA[<p>Went to see some old friends.</p>
+
+<!-- _includes/photograph.html -->
 <style>
 
 .photograph-div {
@@ -94,7 +96,7 @@
 <div class="photograph-div">
     <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/summer_fades_away_240712_2.jpg" class="photograph" />
     <p class="image-specs"> 50mm, f/2.8, 1/160s, ISO 4000 </p>
-    <p class="story">   </p>
+    <p class="story"> Bass player.  </p>
 </div>
 
 <!-- _includes/photograph.html -->
@@ -143,7 +145,7 @@
 <div class="photograph-div">
     <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/summer_fades_away_240712_3.jpg" class="photograph" />
     <p class="image-specs"> 50mm, f/1.8, 1/160s, ISO 6400 </p>
-    <p class="story">   </p>
+    <p class="story"> During one of the songs in the ablum *Time files and Memories cruel*.  </p>
 </div>
 
 <!-- _includes/photograph.html -->
@@ -241,7 +243,7 @@
 <div class="photograph-div">
     <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/summer_fades_away_240712_5.jpg" class="photograph" />
     <p class="image-specs"> 50mm, f/2.8, 1/160s, ISO 2500 </p>
-    <p class="story">   </p>
+    <p class="story"> Auld Lang Syne.  </p>
 </div>
 
 <!-- _includes/photograph.html -->
@@ -290,14 +292,18 @@
 <div class="photograph-div">
     <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/summer_fades_away_240712_6.jpg" class="photograph" />
     <p class="image-specs"> 50mm, f/2.8, 1/160s, ISO 1600 </p>
-    <p class="story">   </p>
+    <p class="story"> Deep Sleep  </p>
 </div>
+
+<p>I didn’t stay till the end of Deep Sleep. The drummer was good. But they used too much samplings from movies or other. And the VJ is just too much for me.</p>
+
+<hr />
 
 <p>Use black and white is like a shortcut to make a photo looks good. I like the grainy texture and I don’t have to consider the color balance.</p>
 
 <hr />
 
-<p>There are two photos that goes way back. I think it’s the first tour the band activated again. I really liked that show. I remember that I had a midterm the next day. Glad I went.</p>
+<p>There are two photos that goes way back. I think it’s the first tour after the band re-activated again. I really liked that show. I remember that I had a midterm the next day. Glad I went.</p>
 
 <!-- _includes/photograph.html -->
 <style>
