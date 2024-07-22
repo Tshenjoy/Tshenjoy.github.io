@@ -37,7 +37,7 @@ story=" Reminds of Taka @ Mono. Shouting at pickup with heavy delay reverb and d
 {% include photograph.html
 src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/summer_fades_away_240712_5.jpg"
 specs="50mm, f/2.8, 1/160s, ISO 2500"
-story="Auld Lang Syne. " %}
+story="Auld Lang Syne. Beautiful." %}
 
 {% include photograph.html
 src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/summer_fades_away_240712_6.jpg"
