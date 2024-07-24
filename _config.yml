@@ -51,8 +51,8 @@ menu:
     url:               /photologs/
   - title:             Live
     url:               /lives/
-  - title:             Example
-    url:               /example/
+  - title:             Compilation
+    url:               /compilation/
   - title:             Documentation
     url:               /docs/
 
