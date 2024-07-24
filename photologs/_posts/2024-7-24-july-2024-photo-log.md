@@ -1,0 +1,50 @@
+---
+layout: post
+title: July 2024 Photo Log
+image: 
+  path: https://tshenjoy.oss-cn-shanghai.aliyuncs.com/blur.jpg
+description: >
+  Harsh weather. New place to live. 
+sitemap: false
+categories: [photologs]
+hide_last_modified: true
+pagination: 
+  enabled: true
+
+---
+
+Short solitariness. New anoyances. 
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/blur.jpg"
+specs ="50mm, f/2.8, 1/160s, ISO 2000"
+story = "My arm is'n long enough. " %}
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/guitar_1.jpg"
+specs ="50mm, f/3.2, 1/160s, ISO 160"
+story = "My guitar. It's been over five years. I pretty much carry it everywhere I've been. " %}
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/guitar_2.jpg"
+specs ="50mm, f/11, 1/320s, ISO 640"
+story = "Just lying around. " %}
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/heavy_rain.jpg"
+specs =""
+story = "Finished *Heavy Rain* this month. Had the best ending under the easiest mode. I think I understand the relationship between Madison and Eason somehow, although I obviously never went through anything close to this story. Many people seems to question the logic behind this plot. " %}
+
+{% include photograph.html
+src = "https://tshenjoy.oss-cn-shanghai.aliyuncs.com/perfume.jpg"
+specs ="50mm, f/2.8, 1/4000s, ISO 640"
+story = "One boring Saturday afternoon. Hard to believe it has been almost two years since I got this. Seldomly had the chances or mood to use it I guess." %}
+
+
+
+
+<!-- ![blur](https://tshenjoy.oss-cn-shanghai.aliyuncs.com/blur.jpg)
+![guitar_1](https://tshenjoy.oss-cn-shanghai.aliyuncs.com/guitar_1.jpg)
+![guitar_2](https://tshenjoy.oss-cn-shanghai.aliyuncs.com/guitar_2.jpg)
+![heavy_rain](https://tshenjoy.oss-cn-shanghai.aliyuncs.com/heavy_rain.jpg)
+![perfume](https://tshenjoy.oss-cn-shanghai.aliyuncs.com/perfume.jpg) -->

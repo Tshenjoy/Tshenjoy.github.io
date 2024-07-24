@@ -15,6 +15,8 @@ pagination:
 
 Got my camera this month and started to take photos. Still learning how to use it. 
 
+<!--more-->
+
 The weather was not so great, cloudy most of the time. 
 
 {% include photograph.html
