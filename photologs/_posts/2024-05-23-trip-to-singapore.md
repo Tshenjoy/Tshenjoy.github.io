@@ -13,9 +13,9 @@ pagination:
 
 ---
 
-My first time abroad. I don't know if I would be willing to remember it. 
+My first time abroad. Don't know if I would be willing to remember it. 
 
-I spent too much time runing from one conference room to another. I was so tired that I could not even remember what I was doing. and of course I was not able to enjoy the city.
+Spent too much time runing from one conference room to another. I was so tired that I could not even remember what I was doing. and of course I was not able to enjoy the city.
 
 {% include photograph.html 
 src = " https://tshenjoy.oss-cn-shanghai.aliyuncs.com/ticket.jpg" 

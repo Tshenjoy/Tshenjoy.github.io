@@ -109,7 +109,7 @@ Powered by Hydejack v9.1.6 <https://hydejack.com/>
   w._search = {
     DATA_URL: '/assets/sitedata.json?no-cache',
     STORAGE_KEY: 'mini-search/',
-    INDEX_KEY: 'index--2024-07-24T11:16:50+08:00',
+    INDEX_KEY: 'index--2024-09-01T15:27:07+08:00',
   };
   w._clapButton = true;
 }(window);</script>
@@ -216,6 +216,39 @@ html{--accent-color: rgb(79,177,186);--accent-color-faded: rgba(79,177,186,0.5);
 
 <p><code class="language-plaintext highlighter-rouge">jekyll build</code></p>
 
+<h3 id="creating-a-new-category-or-tag">Creating a new category or tag</h3>
+<p>By default, categories and tags are rendered as plain text. Further steps are necessary if you want them to link to a page that contains a list of all posts that belong to that category or tag.</p>
+
+<p>For each featured category or tag, a file called <code class="language-plaintext highlighter-rouge">&lt;category-name&gt;.md</code> or <code class="language-plaintext highlighter-rouge">&lt;tag-name&gt;.md</code> has to be created inside the <code class="language-plaintext highlighter-rouge">_featured_tags</code> and <code class="language-plaintext highlighter-rouge">_featured_categories</code> folders, respectively. Each file in these folders is part of a <a href="https://jekyllrb.com/docs/collections/">Jekyll Collection</a>.</p>
+
+<p>The meta data of a category or tag is set in the files front matter, e.g.</p>
+
+<div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># file: `_featured_categories/hyde.md`</span>
+<span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">list</span>
+<span class="na">title</span><span class="pi">:</span>  <span class="s">Hyde</span>
+<span class="na">slug</span><span class="pi">:</span>   <span class="s">hyde</span>
+<span class="na">description</span><span class="pi">:</span> <span class="pi">&gt;</span>
+  <span class="s">Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme.</span>
+  <span class="s">It's based on [Poole](http://getpoole.com), the Jekyll butler.</span>
+<span class="s">---</span>
+</code></pre></div></div>
+
+<dl>
+  <dt><code class="language-plaintext highlighter-rouge">layout</code></dt>
+  <dd>Must either <code class="language-plaintext highlighter-rouge">list</code> or <code class="language-plaintext highlighter-rouge">grid</code>*</dd>
+  <dt><code class="language-plaintext highlighter-rouge">title</code></dt>
+  <dd>Used as title of the page, as well as name of the category or tag as part of the line below a blog post’s title. Can be different from the name of the tag or category, as long as <code class="language-plaintext highlighter-rouge">slug</code> is identical to the name.</dd>
+  <dt><code class="language-plaintext highlighter-rouge">slug</code></dt>
+  <dd>Must be identical to the key used in the blog’s front matter, i.e. if you use <code class="language-plaintext highlighter-rouge">categories: [jekyll]</code> the <code class="language-plaintext highlighter-rouge">slug</code> must be <code class="language-plaintext highlighter-rouge">jekyll</code>. By default, the slug is derived from the title, but here it is recommended that you set it explicitly.</dd>
+  <dt><code class="language-plaintext highlighter-rouge">description</code></dt>
+  <dd>A medium-length description, used on the tag or category’s detail page and shown in a message box below the title.</dd>
+  <dt><code class="language-plaintext highlighter-rouge">menu</code></dt>
+  <dd>Set to to <code class="language-plaintext highlighter-rouge">true</code> if you want the category or tag to appear in the sidebar. For more information, see <a href="#adding-an-entry-to-the-sidebar">Adding an entry to the sidebar</a>.</dd>
+</dl>
+
+<p>Once the file is created, the page can be found at <code class="language-plaintext highlighter-rouge">/category/&lt;categoryname&gt;/</code> or <code class="language-plaintext highlighter-rouge">/tag/&lt;tagname&gt;/</code>.</p>
+
 <h2 id="choosing-a-blog-layout">Choosing a blog layout</h2>
 <p>Hydejack features three layouts for showing your blog posts.</p>
 
@@ -302,7 +335,7 @@ To match the <code class="language-plaintext highlighter-rouge">paginate_path</c
 <footer class="content" role="contentinfo">
   <hr/>
   
-    <p><small class="copyright">© 2024. No (one cares if) rights reserved.
+    <p><small class="copyright">© 2024. No one cares if rights are reserved.
 </small></p>
   
   

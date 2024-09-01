@@ -1,5 +1,256 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-07-24T10:40:13+08:00</updated><id>/feed.xml</id><title type="html">Tsh(trying_to)enjoy</title><subtitle>Existance is pain.
-</subtitle><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><entry><title type="html">Summer Fades Away &amp;amp; Deep Sleep @ Future Theater</title><link href="/lives/2024-07-12-Summer_Fades_Away_Deep_Sleep/" rel="alternate" type="text/html" title="Summer Fades Away &amp;amp; Deep Sleep @ Future Theater" /><published>2024-07-12T00:00:00+08:00</published><updated>2024-07-22T16:25:51+08:00</updated><id>/lives/Summer_Fades_Away_Deep_Sleep</id><content type="html" xml:base="/lives/2024-07-12-Summer_Fades_Away_Deep_Sleep/"><![CDATA[<p>Went to see some old friends.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-07-24T11:16:50+08:00</updated><id>/feed.xml</id><title type="html">Tsh(trying_to)enjoy</title><subtitle>Existance is pain.
+</subtitle><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><entry><title type="html">July 2024 Photo Log</title><link href="/photologs/2024-07-24-july-2024-photo-log/" rel="alternate" type="text/html" title="July 2024 Photo Log" /><published>2024-07-24T00:00:00+08:00</published><updated>2024-07-24T11:16:25+08:00</updated><id>/photologs/july-2024-photo-log</id><content type="html" xml:base="/photologs/2024-07-24-july-2024-photo-log/"><![CDATA[<p>Short solitariness. New anoyances.</p>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/blur.jpg" class="photograph" />
+    <p class="image-specs"> 50mm, f/2.8, 1/160s, ISO 2000 </p>
+    <p class="story"> My arm is'n long enough.  </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/guitar_1.jpg" class="photograph" />
+    <p class="image-specs"> 50mm, f/3.2, 1/160s, ISO 160 </p>
+    <p class="story"> My guitar. It's been over five years. I pretty much carry it everywhere I've been.  </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/guitar_2.jpg" class="photograph" />
+    <p class="image-specs"> 50mm, f/11, 1/320s, ISO 640 </p>
+    <p class="story"> Just lying around.  </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/heavy_rain.jpg" class="photograph" />
+    <p class="image-specs">  </p>
+    <p class="story"> Finished *Heavy Rain* this month. Had the best ending under the easiest mode. I think I understand the relationship between Madison and Eason somehow, although I obviously never went through anything close to this story. Many people seems to question the logic behind this plot.  </p>
+</div>
+
+<!-- _includes/photograph.html -->
+<style>
+
+.photograph-div {
+    padding:16px;
+    margin-bottom: 50px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px ;
+    /* backdrop-filter: blur(10px); */
+}
+
+.photograph {
+    display: block;
+    width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-bottom: 10px;
+}
+
+.image-specs {
+    /* margin-top: 2px; */
+    color: var(--text-color-dark);
+    opacity: 0.5;
+    font-family: "Helvetica";
+    font-size: medium;
+    font-weight: 100;
+    font-style: oblique;
+    user-select: none;
+} 
+
+.story {
+    /* margin: 1rem 0 0 0; */
+    margin-top: 0;
+}
+
+</style>
+
+<div class="photograph-div">
+    <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/perfume.jpg" class="photograph" />
+    <p class="image-specs"> 50mm, f/2.8, 1/4000s, ISO 640 </p>
+    <p class="story"> One boring Saturday afternoon. Hard to believe it has been almost two years since I got this. Seldomly had the chances or mood to use it I guess. </p>
+</div>
+
+<!-- ![blur](https://tshenjoy.oss-cn-shanghai.aliyuncs.com/blur.jpg)
+![guitar_1](https://tshenjoy.oss-cn-shanghai.aliyuncs.com/guitar_1.jpg)
+![guitar_2](https://tshenjoy.oss-cn-shanghai.aliyuncs.com/guitar_2.jpg)
+![heavy_rain](https://tshenjoy.oss-cn-shanghai.aliyuncs.com/heavy_rain.jpg)
+![perfume](https://tshenjoy.oss-cn-shanghai.aliyuncs.com/perfume.jpg) -->]]></content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="photologs" /><summary type="html"><![CDATA[Harsh weather. New place to live.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/blur.jpg" /><media:content medium="image" url="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/blur.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Summer Fades Away &amp;amp; Deep Sleep @ Future Theater</title><link href="/lives/2024-07-12-Summer_Fades_Away_Deep_Sleep/" rel="alternate" type="text/html" title="Summer Fades Away &amp;amp; Deep Sleep @ Future Theater" /><published>2024-07-12T00:00:00+08:00</published><updated>2024-07-22T16:25:51+08:00</updated><id>/lives/Summer_Fades_Away_Deep_Sleep</id><content type="html" xml:base="/lives/2024-07-12-Summer_Fades_Away_Deep_Sleep/"><![CDATA[<p>Went to see some old friends.</p>
 
 <!-- _includes/photograph.html -->
 <style>
@@ -194,7 +445,7 @@
 <div class="photograph-div">
     <img src="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/summer_fades_away_240712_4.jpg" class="photograph" />
     <p class="image-specs"> 50mm, f/1.4, 1/160s, ISO 6400 </p>
-    <p class="story">  Reminds of Taka @ Mono. Shouting at pickup with heavy delay reverb and distotion sound. </p>
+    <p class="story">  Reminds me of Taka @ Mono. Shouting at pickup with heavy delay reverb and distotion sound. </p>
 </div>
 
 <!-- _includes/photograph.html -->
@@ -2441,6 +2692,8 @@ OK, time to clarify. I just typed the first sentence and the rest just poped out
 ![SongFa Bak kut Teh](https://tshenjoy.oss-cn-shanghai.aliyuncs.com/SongFa Bak kut Teh.jpg)
 ![square](https://tshenjoy.oss-cn-shanghai.aliyuncs.com/square.jpg)
 ![ticket](https://tshenjoy.oss-cn-shanghai.aliyuncs.com/ticket.jpg) -->]]></content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="photologs" /><summary type="html"><![CDATA[This whole trip is completely outside of my comfort zone.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/mascot.jpg" /><media:content medium="image" url="https://tshenjoy.oss-cn-shanghai.aliyuncs.com/mascot.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">April 2024 Photo Log</title><link href="/photologs/2024-04-29-april-2024-photo-log/" rel="alternate" type="text/html" title="April 2024 Photo Log" /><published>2024-04-29T00:00:00+08:00</published><updated>2024-07-24T10:35:05+08:00</updated><id>/photologs/april-2024-photo-log</id><content type="html" xml:base="/photologs/2024-04-29-april-2024-photo-log/"><![CDATA[<p>Got my camera this month and started to take photos. Still learning how to use it.</p>
+
+<!--more-->
 
 <p>The weather was not so great, cloudy most of the time.</p>
 

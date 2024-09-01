@@ -21,6 +21,46 @@ redirect_from:
 `jekyll build`
 
 
+
+### Creating a new category or tag
+By default, categories and tags are rendered as plain text. Further steps are necessary if you want them to link to a page that contains a list of all posts that belong to that category or tag.
+
+For each featured category or tag, a file called `<category-name>.md` or `<tag-name>.md` has to be created inside the `_featured_tags` and `_featured_categories` folders, respectively. Each file in these folders is part of a [Jekyll Collection](https://jekyllrb.com/docs/collections/).
+
+The meta data of a category or tag is set in the files front matter, e.g.
+
+~~~yml
+# file: `_featured_categories/hyde.md`
+---
+layout: list
+title:  Hyde
+slug:   hyde
+description: >
+  Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme.
+  It's based on [Poole](http://getpoole.com), the Jekyll butler.
+---
+~~~
+
+`layout`
+: Must either `list` or `grid`\*
+
+`title`
+: Used as title of the page, as well as name of the category or tag as part of the line below a blog post's title. Can be different from the name of the tag or category, as long as `slug` is identical to the name.
+
+`slug`
+: Must be identical to the key used in the blog's front matter, i.e. if you use `categories: [jekyll]` the `slug` must be `jekyll`. By default, the slug is derived from the title, but here it is recommended that you set it explicitly.
+
+`description`
+: A medium-length description, used on the tag or category's detail page and shown in a message box below the title.
+
+`menu`
+: Set to to `true` if you want the category or tag to appear in the sidebar. For more information, see [Adding an entry to the sidebar](#adding-an-entry-to-the-sidebar).
+
+Once the file is created, the page can be found at `/category/<categoryname>/` or `/tag/<tagname>/`.
+
+
+
+
 ## Choosing a blog layout
 Hydejack features three layouts for showing your blog posts.
 
